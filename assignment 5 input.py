@@ -67,16 +67,14 @@ for i in range(n,0,-1):
 #Example: Input the number of rows = 5, then the pattern should come out as given below.
 #If the count of the alphabet gets exhausted, repeat the alphabet from A.
 
-asciichr = 65
-
-# outer loop for ith rows
-for i in range(0,6):
-    # inner loop for jth columns
-    for j in range(0,i+1):
-        char = chr(asciichr)
-        print(char,end="")
-        asciichr += 1
-    print()
+third_loop = 65
+for first_loop in range(int(input('Enter the number of rows: '))):
+    string = ''
+    for second_loop in range(first_loop + 1):
+        string += chr(third_loop)
+        third_loop +=1
+        if (third_loop == (65 + 26)) : third_loop = 65
+    print(string)
     
 # Q6) Write a python program to print the prime numbers for a user input range.    
 print("\nAns6")
