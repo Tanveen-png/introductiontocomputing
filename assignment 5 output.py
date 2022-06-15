@@ -1,27 +1,23 @@
 Python 3.10.5 (tags/v3.10.5:f377153, Jun  6 2022, 16:14:13) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 
-========= RESTART: C:/Users/tanveen kaur/Desktop/assignment 5 input.py =========
+===================== RESTART: C:/Users/tanveen kaur/rtg.py ====================
 Ans 1)
-Enter string: tanveem
-The original string  is :  tanveem
-The reversed string using a while loop is :  meevnat
+Enter string: tanveen
+The original string  is :  tanveen
+The reversed string using a while loop is :  neevnat
 
 Ans 2)
-Enter the number: 4
-Enter the range: 20
+Enter the number: 40
+Enter the range: 30
 The numbers divisible are: 
 0
-4
-8
-12
-16
 
 Ans3
-Enter first side: 2
-Enter second side: 3
-Enter third side: 4
-The area of the triangle is  2.9047375096555625
+Enter first side: 6
+Enter second side: 7
+Enter third side: 6
+The area of the triangle is  17.056890103415686
 
 Ans4
 
@@ -34,19 +30,19 @@ Ans4
 * * * 
 * * 
 * 
+Enter the number of rows: 5
 A
 BC
 DEF
 GHIJ
 KLMNO
-PQRSTU
 
 Ans6
-Please, Enter the Lowest Range Value: 20
-Please, Enter the Upper Range Value: 30
+Please, Enter the Lowest Range Value: 60
+Please, Enter the Upper Range Value: 70
 The Prime Numbers in the range are: 
-23
-29
+61
+67
 
 Ans7
 77
@@ -57,71 +53,61 @@ Ans7
 462
 
 Ans8
-Enter value: 30
-Enter value: 12
-Enter value: 12
-Enter value: -2
+Enter value: 5
+Enter value: 6
+Enter value: 8
+Enter value: 7
+Enter value: 9
 Enter value: 0
-Enter value: 22
-Enter value: 23
-Enter value: 34
-Enter value: 54
-Enter value: 43
+Enter value: 3
+Enter value: 3
+Enter value: 45
+Enter value: 65
 positive numbers
-30
-12
-12
-22
-23
-34
-54
-43
+5
+6
+8
+7
+9
+3
+3
+45
+65
 negative numbers
--2
 odd numbers
-23
-43
+5
+7
+9
+3
+3
+45
+65
 even numbers
-30
-12
-12
--2
+6
+8
 0
-22
-34
-54
 Number of times each number occurs in the List
-Count of 30 = 1
-Count of 12 = 2
-Count of 12 = 2
-Count of -2 = 1
+Count of 5 = 1
+Count of 6 = 1
+Count of 8 = 1
+Count of 7 = 1
+Count of 9 = 1
 Count of 0 = 1
-Count of 22 = 1
-Count of 23 = 1
-Count of 34 = 1
-Count of 54 = 1
-Count of 43 = 1
+Count of 3 = 2
+Count of 3 = 2
+Count of 45 = 1
+Count of 65 = 1
 
 Ans9
 
-length of list: 10
+length of list: 5
 Enter value: 4
-Enter value: 6
-Enter value: 5
-Enter value: 5
-Enter value: 4
-Enter value: 4
-Enter value: 4
-Enter value: 3
 Enter value: 5
 Enter value: 6
-Count of 4 = 4
-Count of 6 = 2
-Count of 5 = 3
-Count of 5 = 3
-Count of 4 = 4
-Count of 4 = 4
-Count of 4 = 4
-Count of 3 = 1
-Count of 5 = 3
-Count of 6 = 2
+Enter value: 7
+Enter value: 8
+Count of 4 = 1
+Count of 5 = 1
+Count of 6 = 1
+Count of 7 = 1
+Count of 8 = 1
